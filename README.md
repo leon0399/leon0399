@@ -28,4 +28,5 @@
   <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="WSL" src="https://img.shields.io/badge/-WSL-0078d4?style=flat-square&logo=windowsterminal&logoColor=white" />
 </p>
