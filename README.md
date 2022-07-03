@@ -1,18 +1,18 @@
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+# 👨‍💻 Hi there, I'm Leonid Meleshin
 
-<p>
-  Hi, I'm Leonid and I'm a Fullstack Web Developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <strong>Moscow, Russia</strong>. I enjoy creating 💡&nbsp;<em>useful</em>&nbsp;💡, ✨&nbsp;<em>beautiful</em>&nbsp;✨ and 💪&nbsp;<em>powerful</em>&nbsp;💪 applications
-</p>
+I'm a Fullstack Web Developer from **Moscow, Russia**, currently located in **Istanbul, Turkey**. I enjoy creating 💡&nbsp;*useful*&nbsp;💡, ✨&nbsp;*beautiful*&nbsp;✨ and 💪&nbsp;*powerful*&nbsp;💪 applications
 
-<h2>My tools</h2>
+
+## ⚡ My tools
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="Laravel Horizon" src="https://img.shields.io/badge/-Laravel_Horizon-405263?style=flat-square&logo=laravel-horizon&logoColor=white" />
+  <!-- <img alt="Laravel Horizon" src="https://img.shields.io/badge/-Laravel_Horizon-405263?style=flat-square&logo=laravel-horizon&logoColor=white" /> -->
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat-square&logo=nuxt.js&logoColor=white" />
+  <!-- <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> -->
+  <!-- <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat-square&logo=nuxt.js&logoColor=white" /> -->
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
