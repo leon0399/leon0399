@@ -3,6 +3,14 @@
 I'm a Fullstack Web Developer from **Moscow, Russia**, currently located in **Istanbul, Turkey**. I enjoy creating 💡&nbsp;*useful*&nbsp;💡, ✨&nbsp;*beautiful*&nbsp;✨ and 💪&nbsp;*powerful*&nbsp;💪 applications
 
 
+<a href="https://leon0399.ru" target="_blank"><img align="left" alt="leon0399.ru" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/globe.png" /></a>
+<a href="https://t.me/leon0399" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/telegram.png" /></a>
+<a href="https://www.linkedin.com/in/leon0399" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/linkedin.png" /></a>
+<a href="https://instagram.com/leon0399" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/instagram.png" /></a>
+<a href="https://twitter.com/leon0399" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/twitter.png" /></a>
+
+<br />
+
 ## ⚡ My tools
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
