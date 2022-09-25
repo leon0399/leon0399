@@ -1,4 +1,4 @@
-# 👨‍💻 Hi there, I'm Leonid Meleshin
+# 👨‍💻 Hi there, I'm Leonid Meleshin 👋
 
 I'm a Fullstack Web Developer from **Moscow, Russia**, currently located in **Istanbul, Turkey**. I enjoy creating 💡&nbsp;*useful*&nbsp;💡, ✨&nbsp;*beautiful*&nbsp;✨ and 💪&nbsp;*powerful*&nbsp;💪 applications
 
@@ -38,3 +38,5 @@ I'm a Fullstack Web Developer from **Moscow, Russia**, currently located in **Is
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="WSL" src="https://img.shields.io/badge/-WSL-0078d4?style=flat-square&logo=windowsterminal&logoColor=white" />
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=leon0399" alt="leon0399" />
