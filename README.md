@@ -41,4 +41,5 @@ I'm a Fullstack Web Developer from **Moscow, Russia**. I enjoy creating 💡&nbs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leon0399&layout=compact)](https://github.com/leon0399?tab=repositories)
 
-<img src="https://komarev.com/ghpvc/?username=leon0399" alt="leon0399" />
+![leon0399](https://komarev.com/ghpvc/?username=leon0399)
+[![Discord](https://img.shields.io/discord/966090258104062023?label=Discord&logo=discord)](https://discord.gg/x83DtdMDZ6)
