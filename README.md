@@ -39,4 +39,6 @@ I'm a Fullstack Web Developer from **Moscow, Russia**. I enjoy creating 💡&nbs
   <img alt="WSL" src="https://img.shields.io/badge/-WSL-0078d4?style=flat-square&logo=windowsterminal&logoColor=white" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leon0399&layout=compact)](https://github.com/leon0399?tab=repositories)
+
 <img src="https://komarev.com/ghpvc/?username=leon0399" alt="leon0399" />
