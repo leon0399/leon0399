@@ -1,6 +1,6 @@
 # 👨‍💻 Hi there, I'm Leonid Meleshin 👋
 
-I'm a Fullstack Web Developer from **Moscow, Russia**. I enjoy creating 💡&nbsp;*useful*&nbsp;💡, ✨&nbsp;*beautiful*&nbsp;✨ and 💪&nbsp;*powerful*&nbsp;💪 applications
+I'm a Fullstack Web Developer travelling accross the world. I enjoy creating 💡&nbsp;*useful*&nbsp;💡, ✨&nbsp;*beautiful*&nbsp;✨ and 💪&nbsp;*powerful*&nbsp;💪 applications
 
 
 <a href="https://leon0399.ru" target="_blank"><img align="left" alt="leon0399.ru" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/globe.png" /></a>
