@@ -28,8 +28,8 @@ I'm a Fullstack Web Developer travelling accross the world. I enjoy creating ðŸ’
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <!-- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> -->
+  <!-- <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" /> -->
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Gitlab CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
@@ -42,4 +42,5 @@ I'm a Fullstack Web Developer travelling accross the world. I enjoy creating ðŸ’
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leon0399&layout=compact)](https://github.com/leon0399?tab=repositories)
 
 ![leon0399](https://komarev.com/ghpvc/?username=leon0399)
+[![wakatime](https://wakatime.com/badge/user/3767da46-6776-4a45-9ae2-614256b745d9.svg)](https://wakatime.com/@3767da46-6776-4a45-9ae2-614256b745d9)
 [![Discord](https://img.shields.io/discord/966090258104062023?label=Discord&logo=discord)](https://discord.gg/x83DtdMDZ6)
